@@ -266,7 +266,7 @@ GEM
       rubyntlm
       windows_error
     rubyntlm (0.6.2)
-    rubyzip (1.2.1)
+    rubyzip (2.3.2)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
